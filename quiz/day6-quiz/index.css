@@ -1,0 +1,14 @@
+.btn {
+  width: 200px;
+  background-color: blue;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  border: 0;
+  transition: width 0.5s ease-in-out 0.5s, background-color 0.5s ease-in-out 0s;
+}
+
+.btn:hover {
+  width: 250px;
+  background-color: darkblue;
+}
